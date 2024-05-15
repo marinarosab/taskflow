@@ -1,4 +1,4 @@
-# TaskFlow - Gerenciamento Inteligente de Tarefas com Inteligência Artificial (Google Gemini)
+# 🚀 TaskFlow - Gerenciamento Inteligente de Tarefas com Inteligência Artificial (Google Gemini)
 
 **Organize suas tarefas e aumente sua produtividade com o TaskFlow!**
 
